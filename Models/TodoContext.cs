@@ -14,10 +14,9 @@ namespace TodoApi.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<TodoItem>()
-                .Property(e => e.id)
-                .UseSerialColumn();
-        }
-
+             modelBuilder.Entity<TodoItem>()
+                .Property(e => e.is_complete)
+                .HasDefaultValue(false);
+       }
     }
 }

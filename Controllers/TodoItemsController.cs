@@ -2,74 +2,74 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TodoApi.Models;
 
-namespace TodoApi.Controllers
+namespace TodoApi.Controllers;
+
+[Route("api/[controller]"), ApiController]
+public class TodoItemsController : ControllerBase
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class TodoItemsController : ControllerBase
+    private readonly TodoContext _context;
+
+    public TodoItemsController(TodoContext context)
     {
-        private readonly TodoContext _context;
+        _context = context;
+    }
 
-        public TodoItemsController(TodoContext context)
+    // GET: api/todoitems
+    [HttpGet]
+    public async Task<ActionResult<IEnumerable<TodoItem>>> GetTodoItems()
+    {
+        return await _context.todoitems
+            .FromSqlRaw("SELECT * FROM TodoItems")
+            .ToListAsync();
+    }
+
+    // GET: api/todoitem/5
+    [HttpGet("{id}")]
+    public async Task<ActionResult<TodoItem>> GetToDoItem(long id)
+    {
+        var todoItem = await _context.todoitems
+            .FromSqlRaw("SELECT * FROM todoitems WHERE Id = {0}", id)
+            .FirstOrDefaultAsync();
+
+        if (todoItem == null)
         {
-            _context = context;
+            return NotFound();
         }
 
-        // GET: api/todoitems
-        [HttpGet]
-        public async Task<ActionResult<IEnumerable<TodoItem>>> GetTodoItems()
+        return todoItem;
+    }
+
+    // POST : api/TodoItems/5
+    [HttpPost]
+    public async Task<ActionResult<TodoItem>> PostTodoItem([FromBody] CreateTodoItem model)
+    {
+        var todoItem = new TodoItem(name: model.name);
+
+        string sql = "INSERT INTO todoitems (name) VALUES (@p0)";
+
+        await _context.Database.ExecuteSqlRawAsync(sql, model.name);
+
+        return CreatedAtAction(nameof(GetTodoItems), new { id = todoItem.id }, todoItem);
+
+    }
+    // DELETE: api/TodoItems/5
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteTodoItem(long id)
+    {
+        var todoItem = await _context.todoitems.FindAsync(id);
+        if (todoItem == null)
         {
-            return await _context.todoitems
-                .FromSqlRaw("SELECT * FROM TodoItems")
-                .ToListAsync();
+            return NotFound();
         }
 
-        // GET: api/todoitem/5
-        [HttpGet("{id}")]
-        public async Task<ActionResult<TodoItem>> GetToDoItem(long id)
-        {
-            var todoItem = await _context.todoitems
-                .FromSqlRaw("SELECT * FROM todoitems WHERE Id = {0}", id)
-                .FirstOrDefaultAsync();
+        _context.todoitems.Remove(todoItem);
+        await _context.SaveChangesAsync();
 
-            if (todoItem == null)
-            {
-                return NotFound();
-            }
+        return NoContent();
+    }
 
-            return todoItem;
-        }
-
-        // PUT: api/TodoItems/5
-        [HttpPost]
-        public async Task<ActionResult<TodoItem>> PostTodoItem(TodoItem todoItem)
-        {
-            string sql = "INSERT INTO todoitems (Name, Is_Complete) VALUES (@p0, @p1)";
-
-            await _context.Database.ExecuteSqlRawAsync(sql, todoItem.name, todoItem.is_complete);
-
-            return CreatedAtAction(nameof(GetTodoItems), new { id = todoItem.id}, todoItem);
-
-        }
-        // DELETE: api/TodoItems/5
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteTodoItem(long id)
-        {
-            var todoItem = await _context.todoitems.FindAsync(id);
-            if (todoItem == null)
-            {
-                return NotFound();
-            }
-
-            _context.todoitems.Remove(todoItem);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
-        }
-
-        private bool TodoItemExists(long id)
-        {
-            return _context.todoitems.Any(e => e.id == id);
-        }
+    private bool TodoItemExists(long id)
+    {
+        return _context.todoitems.Any(e => e.id == id);
     }
 }
