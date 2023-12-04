@@ -36,7 +36,11 @@ public class TodoItemsController : ControllerBase
             return NotFound();
         }
 
-        return todoItem;
+        if (todoItem != null) return todoItem;
+        else
+        {
+            return NotFound();
+        }
     }
 
     // POST : api/TodoItems/5
@@ -66,10 +70,5 @@ public class TodoItemsController : ControllerBase
         await _context.SaveChangesAsync();
 
         return NoContent();
-    }
-
-    private bool TodoItemExists(long id)
-    {
-        return _context.todoitems.Any(e => e.id == id);
     }
 }
