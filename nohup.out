@@ -1,0 +1,717 @@
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+Debug | ByteBufferAsyncProcessor  | 19:DefaultDispatcher-worker-8 | PAUSE ('Socket not connected') :: {id = EarlyStartServerWire/Sender, state = 'Initialized'} 
+Debug | Server                    | 96:EarlyStartServerWire | EarlyStartServerWire: listening /127.0.0.1:37673 
+Installation home directory: file:////snap/rider/419
+System directory: file:////home/krasyo/.cache/JetBrains/Rider2023.2
+Config directory: file:////home/krasyo/.config/JetBrains/Rider2023.2
+Log directory: file:////home/krasyo/.cache/JetBrains/Rider2023.2/log
+2023-12-05 10:18:16,841 [   1725]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Rider Light - old: Rider Light, new Rider Light
+2023-12-05 10:18:16,847 [   1731]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Rider Dark - old: Rider Dark, new Rider Dark
+2023-12-05 10:18:16,853 [   1737]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Light - old: Light, new Light
+2023-12-05 10:18:16,859 [   1743]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Rider Light - old: Rider Light, new Rider Light
+2023-12-05 10:18:16,864 [   1748]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Rider Dark - old: Rider Dark, new Rider Dark
+2023-12-05 10:18:16,868 [   1752]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Rider Melon Light - old: Rider Melon Light, new Rider Melon Light
+2023-12-05 10:18:16,873 [   1757]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Rider Melon Light - old: Rider Melon Light, new Rider Melon Light
+2023-12-05 10:18:16,878 [   1762]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Rider Melon Dark - old: Rider Melon Dark, new Rider Melon Dark
+2023-12-05 10:18:16,882 [   1766]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Rider Melon Dark - old: Rider Melon Dark, new Rider Melon Dark
+2023-12-05 10:18:16,885 [   1769]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Visual Studio Light - old: Visual Studio Light, new Visual Studio Light
+2023-12-05 10:18:16,887 [   1771]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Visual Studio Light - old: Visual Studio Light, new Visual Studio Light
+2023-12-05 10:18:16,890 [   1774]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Visual Studio Dark - old: Visual Studio Dark, new Visual Studio Dark
+2023-12-05 10:18:16,892 [   1776]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Visual Studio Dark - old: Visual Studio Dark, new Visual Studio Dark
+2023-12-05 10:18:16,895 [   1779]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme ReSharper Light - old: ReSharper Light, new ReSharper Light
+2023-12-05 10:18:16,898 [   1782]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme ReSharper Light - old: ReSharper Light, new ReSharper Light
+2023-12-05 10:18:16,901 [   1785]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme ReSharper Dark - old: ReSharper Dark, new ReSharper Dark
+2023-12-05 10:18:16,903 [   1787]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme ReSharper Dark - old: ReSharper Dark, new ReSharper Dark
+2023-12-05 10:18:16,904 [   1788]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Visual Assist Light - old: Visual Assist Light, new Visual Assist Light
+2023-12-05 10:18:16,906 [   1790]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Visual Assist Light - old: Visual Assist Light, new Visual Assist Light
+2023-12-05 10:18:16,907 [   1791]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Visual Assist Dark - old: Visual Assist Dark, new Visual Assist Dark
+2023-12-05 10:18:16,908 [   1792]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Visual Assist Dark - old: Visual Assist Dark, new Visual Assist Dark
+
+2023-12-05 10:18:24,649 [   9533]   WARN - #c.i.o.w.i.s.w.StatusBarWidgetsManager - com.jetbrains.dpa.DpaIconWidgetFactory doesn't define id for extension (point=com.intellij.statusBarWidgetFactory). Please specify `id` attribute.
+2023-12-05 10:18:24,685 [   9569]   WARN - #c.i.o.w.i.s.w.StatusBarWidgetsManager - com.jetbrains.rider.plugins.unity.ui.shaders.ShaderWidgetFactory doesn't define id for extension (point=com.intellij.statusBarWidgetFactory). Please specify `id` attribute.
+2023-12-05 10:18:25,864 [  10748]   WARN - #c.i.o.a.i.ActionUpdater - 521 ms to grab EDT for ActiveConfigurationAndPlatformActionOnToolbar#update@MainToolbar (com.jetbrains.rider.build.actions.ActiveConfigurationAndPlatformActionOnToolbar)
+2023-12-05 10:18:31,125 [  16009]   WARN - #c.i.o.a.i.ActionUpdater - 312 ms to grab EDT for EditorMarkupModelImpl$1#update@EditorInspectionsToolbar (com.intellij.openapi.editor.impl.EditorMarkupModelImpl$1)
+2023-12-05 10:18:32,171 [  17055]   WARN - #c.i.o.a.i.ActionUpdater - 460 ms to grab EDT for BackAction#update@MainToolbar (com.intellij.ide.actions.BackAction)
+2023-12-05 10:18:32,172 [  17056]   WARN - #c.i.o.a.i.ActionUpdater - 460 ms to grab EDT for NewUIUnityToolbarActionsGroup#update@MainToolbar (com.jetbrains.rider.plugins.unity.actions.NewUIUnityToolbarActionsGroup)
+2023-12-05 10:18:35,295 [  20179]   WARN - #c.i.d.PerformanceWatcherImpl - UI was frozen for 1361ms, details saved to /home/krasyo/.cache/JetBrains/Rider2023.2/log/threadDumps-freeze-20231205-101834-RD-232.10203.29-Unsafe.park-1sec
+2023-12-05 10:18:37,831 [  22715] SEVERE - Projected Logger - IdeaLoggingEvent[message=Failed to get custom analyzers diagnostics for document: TodoItemsController.cs Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+
+--- EXCEPTION #1/2 [TypeLoadException]
+Message = “Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root.InnerException
+ClassName = System.TypeLoadException
+HResult = COR_E_TYPELOAD=80131522
+Source = Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler
+TypeLoadClassName = Enumerator
+TypeLoadAssemblyName = “Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+TypeLoadResourceID = “<ERROR> Could not load file or assembly 'System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'. The system cannot find the file specified.”
+StackTraceString = “
+  at Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.HostOutputNode`1.AppendOutputs(IncrementalExecutionContext context, CancellationToken cancellationToken)
+     at Microsoft.CodeAnalysis.GeneratorDriver.UpdateOutputs(ImmutableArray`1 outputNodes, IncrementalGeneratorOutputKind outputKind, Builder generatorRunStateBuilder, CancellationToken cancellationToken, Builder driverStateBuilder) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 323
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGeneratorsCore(Compilation compilation, DiagnosticBag diagnosticsBag, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 298
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGenerators(Compilation compilation, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 47
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.FinalizeCompilationAsync(SolutionState solution, Compilation compilationWithoutGenerators, CompilationTrackerGeneratorInfo generatorInfo, Compilation compilationWithStaleGeneratedTrees, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 846
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.BuildCompilationInfoAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 501
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetOrBuildCompilationInfoAsync(SolutionState solution, Boolean lockGate, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 451
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetCompilationSlowAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 419
+     at Microsoft.CodeAnalysis.Document.GetSemanticModelAsync(CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\Document.cs:line 283
+     at JetBrains.Roslyn.Worker.Workspaces.Analyzers.RoslynDocumentAnalyzer.GetCustomAnalyzersDiagnosticsAsync(Document document, Boolean canUseCachedDiagnostics, Int64 sweaRunVersion, CancellationToken token) in GetCustomAnalyzersDiagnosticsAsync.il:line IL_0287 mvid 52CC
+”
+
+--- Outer ---
+
+--- EXCEPTION #2/2 [LoggerException]
+Message = “Failed to get custom analyzers diagnostics for document: TodoItemsController.cs Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root
+ClassName = JetBrains.Util.LoggerException
+InnerException = “Exception #1 at Root.InnerException”
+HResult = COR_E_APPLICATION=80131600
+StackTraceString = “
+  at JetBrains.Util.LoggerBase.Log(LoggingLevel level, String message, Exception ex) in Log.il:line IL_0024 mvid 0595
+     at JetBrains.Diagnostics.Log.SwitchingLog.JetBrains.Diagnostics.ILog.Log(LoggingLevel level, String message, Exception exception)
+     at JetBrains.Diagnostics.LogEx.Error(ILog this, Exception ex, String message) in Error.il:line IL_0000 mvid 6ED6 or Error.il:line IL_0008 mvid 6ED6
+     at JetBrains.Diagnostics.LogEx.Error(ILog logger, Exception ex, JetLogErrorInterpolatedStringHandler& messageHandler) in Error.il:line IL_0000 mvid 6ED6 or Error.il:line IL_0008 mvid 6ED6
+     at JetBrains.Roslyn.Worker.Workspaces.Analyzers.RoslynDocumentAnalyzer.GetCustomAnalyzersDiagnosticsAsync(Document document, Boolean canUseCachedDiagnostics, Int64 sweaRunVersion, CancellationToken token) in GetCustomAnalyzersDiagnosticsAsync.il:line IL_0287 mvid 52CC
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute) in FinishSlow.il:line IL_0003 mvid 8EF9
+     at System.Threading.Tasks.Task.TrySetException(Object exceptionObject) in TrySetException.il:line IL_0022 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField) in SetException.il:line IL_0000 mvid 8EF9 or SetException.il:line IL_0025 mvid 8EF9
+     at Microsoft.CodeAnalysis.Document.GetSemanticModelAsync(CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\Document.cs:line 283
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute) in FinishSlow.il:line IL_0003 mvid 8EF9
+     at System.Threading.Tasks.Task.TrySetException(Object exceptionObject) in TrySetException.il:line IL_0022 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField) in SetException.il:line IL_0000 mvid 8EF9 or SetException.il:line IL_0025 mvid 8EF9
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetCompilationSlowAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 419
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute) in FinishSlow.il:line IL_0003 mvid 8EF9
+     at System.Threading.Tasks.Task.TrySetException(Object exceptionObject) in TrySetException.il:line IL_0022 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField) in SetException.il:line IL_0000 mvid 8EF9 or SetException.il:line IL_0025 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception) in SetException.il:line IL_0000 mvid 8EF9 or SetException.il:line IL_0025 mvid 8EF9
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetOrBuildCompilationInfoAsync(SolutionState solution, Boolean lockGate, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 451
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task`1.TrySetResult(TResult result) in TrySetResult.il:line IL_004B mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1 task, TResult result) in SetExistingTaskResult.il:line IL_001D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncValueTaskMethodBuilder`1.SetResult(TResult result) in SetResult.il:line IL_001B mvid 8EF9
+     at Roslyn.Utilities.SemaphoreSlimExtensions.DisposableWaitAsync(SemaphoreSlim semaphore, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\InternalUtilities\SemaphoreSlimExtensions.cs:line 24
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task`1.TrySetResult(TResult result) in TrySetResult.il:line IL_004B mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1 task, TResult result) in SetExistingTaskResult.il:line IL_001D mvid 8EF9
+     at System.Threading.SemaphoreSlim.WaitUntilCountOrTimeoutAsync(TaskNode asyncWaiter, Int32 millisecondsTimeout, CancellationToken cancellationToken) in WaitUntilCountOrTimeoutAsync.il:line IL_01EB mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(Action action, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task`1.TrySetResult(TResult result) in TrySetResult.il:line IL_004B mvid 8EF9
+     at System.Threading.Tasks.Task.CancellationPromise`1.System.Threading.Tasks.ITaskCompletionAction.Invoke(Task completingTask)
+     at System.Threading.ThreadPoolWorkQueue.Dispatch() in Dispatch.il:line IL_013F mvid 8EF9
+     at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart() in WorkerThreadStart.il:line IL_0067 mvid 8EF9
+”
+, throwable=com.jetbrains.rd.platform.diagnostics.BackendException: Failed to get custom analyzers diagnostics for document: TodoItemsController.cs Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+
+--- EXCEPTION #1/2 [TypeLoadException]
+Message = “Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root.InnerException
+ClassName = System.TypeLoadException
+HResult = COR_E_TYPELOAD=80131522
+Source = Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler
+TypeLoadClassName = Enumerator
+TypeLoadAssemblyName = “Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+TypeLoadResourceID = “<ERROR> Could not load file or assembly 'System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'. The system cannot find the file specified.”
+StackTraceString = “
+  at Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.HostOutputNode`1.AppendOutputs(IncrementalExecutionContext context, CancellationToken cancellationToken)
+     at Microsoft.CodeAnalysis.GeneratorDriver.UpdateOutputs(ImmutableArray`1 outputNodes, IncrementalGeneratorOutputKind outputKind, Builder generatorRunStateBuilder, CancellationToken cancellationToken, Builder driverStateBuilder) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 323
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGeneratorsCore(Compilation compilation, DiagnosticBag diagnosticsBag, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 298
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGenerators(Compilation compilation, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 47
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.FinalizeCompilationAsync(SolutionState solution, Compilation compilationWithoutGenerators, CompilationTrackerGeneratorInfo generatorInfo, Compilation compilationWithStaleGeneratedTrees, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 846
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.BuildCompilationInfoAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 501
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetOrBuildCompilationInfoAsync(SolutionState solution, Boolean lockGate, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 451
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetCompilationSlowAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 419
+     at Microsoft.CodeAnalysis.Document.GetSemanticModelAsync(CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\Document.cs:line 283
+     at JetBrains.Roslyn.Worker.Workspaces.Analyzers.RoslynDocumentAnalyzer.GetCustomAnalyzersDiagnosticsAsync(Document document, Boolean canUseCachedDiagnostics, Int64 sweaRunVersion, CancellationToken token) in GetCustomAnalyzersDiagnosticsAsync.il:line IL_0287 mvid 52CC
+”
+
+--- Outer ---
+
+--- EXCEPTION #2/2 [LoggerException]
+Message = “Failed to get custom analyzers diagnostics for document: TodoItemsController.cs Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root
+ClassName = JetBrains.Util.LoggerException
+InnerException = “Exception #1 at Root.InnerException”
+HResult = COR_E_APPLICATION=80131600
+StackTraceString = “
+  at JetBrains.Util.LoggerBase.Log(LoggingLevel level, String message, Exception ex) in Log.il:line IL_0024 mvid 0595
+     at JetBrains.Diagnostics.Log.SwitchingLog.JetBrains.Diagnostics.ILog.Log(LoggingLevel level, String message, Exception exception)
+     at JetBrains.Diagnostics.LogEx.Error(ILog this, Exception ex, String message) in Error.il:line IL_0000 mvid 6ED6 or Error.il:line IL_0008 mvid 6ED6
+     at JetBrains.Diagnostics.LogEx.Error(ILog logger, Exception ex, JetLogErrorInterpolatedStringHandler& messageHandler) in Error.il:line IL_0000 mvid 6ED6 or Error.il:line IL_0008 mvid 6ED6
+     at JetBrains.Roslyn.Worker.Workspaces.Analyzers.RoslynDocumentAnalyzer.GetCustomAnalyzersDiagnosticsAsync(Document document, Boolean canUseCachedDiagnostics, Int64 sweaRunVersion, CancellationToken token) in GetCustomAnalyzersDiagnosticsAsync.il:line IL_0287 mvid 52CC
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute) in FinishSlow.il:line IL_0003 mvid 8EF9
+     at System.Threading.Tasks.Task.TrySetException(Object exceptionObject) in TrySetException.il:line IL_0022 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField) in SetException.il:line IL_0000 mvid 8EF9 or SetException.il:line IL_0025 mvid 8EF9
+     at Microsoft.CodeAnalysis.Document.GetSemanticModelAsync(CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\Document.cs:line 283
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute) in FinishSlow.il:line IL_0003 mvid 8EF9
+     at System.Threading.Tasks.Task.TrySetException(Object exceptionObject) in TrySetException.il:line IL_0022 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField) in SetException.il:line IL_0000 mvid 8EF9 or SetException.il:line IL_0025 mvid 8EF9
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetCompilationSlowAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 419
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute) in FinishSlow.il:line IL_0003 mvid 8EF9
+     at System.Threading.Tasks.Task.TrySetException(Object exceptionObject) in TrySetException.il:line IL_0022 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField) in SetException.il:line IL_0000 mvid 8EF9 or SetException.il:line IL_0025 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception) in SetException.il:line IL_0000 mvid 8EF9 or SetException.il:line IL_0025 mvid 8EF9
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetOrBuildCompilationInfoAsync(SolutionState solution, Boolean lockGate, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 451
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task`1.TrySetResult(TResult result) in TrySetResult.il:line IL_004B mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1 task, TResult result) in SetExistingTaskResult.il:line IL_001D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncValueTaskMethodBuilder`1.SetResult(TResult result) in SetResult.il:line IL_001B mvid 8EF9
+     at Roslyn.Utilities.SemaphoreSlimExtensions.DisposableWaitAsync(SemaphoreSlim semaphore, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\InternalUtilities\SemaphoreSlimExtensions.cs:line 24
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(IAsyncStateMachineBox box, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task`1.TrySetResult(TResult result) in TrySetResult.il:line IL_004B mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetExistingTaskResult(Task`1 task, TResult result) in SetExistingTaskResult.il:line IL_001D mvid 8EF9
+     at System.Threading.SemaphoreSlim.WaitUntilCountOrTimeoutAsync(TaskNode asyncWaiter, Int32 millisecondsTimeout, CancellationToken cancellationToken) in WaitUntilCountOrTimeoutAsync.il:line IL_01EB mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunOrScheduleAction(Action action, Boolean allowInlining) in RunOrScheduleAction.il:line IL_0022 mvid 8EF9 or RunOrScheduleAction.il:line IL_003B mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0065 mvid 8EF9 or RunContinuations.il:line IL_0073 mvid 8EF9
+     at System.Threading.Tasks.Task`1.TrySetResult(TResult result) in TrySetResult.il:line IL_004B mvid 8EF9
+     at System.Threading.Tasks.Task.CancellationPromise`1.System.Threading.Tasks.ITaskCompletionAction.Invoke(Task completingTask)
+     at System.Threading.ThreadPoolWorkQueue.Dispatch() in Dispatch.il:line IL_013F mvid 8EF9
+     at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart() in WorkerThreadStart.il:line IL_0067 mvid 8EF9
+”
+
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent.fromLogEntry(RdClientProtocolComponent.kt:80)
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent.access$fromLogEntry(RdClientProtocolComponent.kt:23)
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent$2.invoke(RdClientProtocolComponent.kt:49)
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent$2.invoke(RdClientProtocolComponent.kt:45)
+	at com.jetbrains.rd.util.reactive.Signal.fire(Signal.kt:32)
+	at com.jetbrains.rd.framework.impl.RdSignal$onWireReceived$2.invoke(RdSignal.kt:32)
+	at com.jetbrains.rd.framework.impl.RdSignal$onWireReceived$2.invoke(RdSignal.kt:31)
+	at com.jetbrains.rd.framework.MessageBroker$RdWireableDispatchHelper$doDispatch$2.invoke(MessageBroker.kt:122)
+	at com.jetbrains.rd.framework.MessageBroker$RdWireableDispatchHelper$doDispatch$2.invoke(MessageBroker.kt:115)
+	at com.jetbrains.rdclient.protocol.RdDispatcher.flushAll(RdDispatcher.kt:103)
+	at com.jetbrains.rdclient.protocol.RdDispatcher.flushAllRunnable$lambda$0(RdDispatcher.kt:29)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:208)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:190)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.openapi.application.impl.ApplicationImpl$4.run(ApplicationImpl.java:478)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:79)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:121)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:41)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:792)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:739)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:733)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:761)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.kt:690)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent$lambda$10(IdeEventQueue.kt:593)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWithoutImplicitRead(ApplicationImpl.java:1485)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.kt:593)
+	at com.intellij.ide.IdeEventQueue.access$_dispatchEvent(IdeEventQueue.kt:67)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:369)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:368)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:787)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:368)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:363)
+	at com.intellij.ide.IdeEventQueueKt.performActivity$lambda$1(IdeEventQueue.kt:997)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.ide.IdeEventQueueKt.performActivity(IdeEventQueue.kt:997)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$7(IdeEventQueue.kt:363)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.kt:405)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+]
+2023-12-05 10:18:37,836 [  22720] SEVERE - Projected Logger - IdeaLoggingEvent[message=Failed to generate sources for project: /home/krasyo/programming/TodoApi/TodoApi.csproj Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+
+--- EXCEPTION #1/2 [TypeLoadException]
+Message = “Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root.InnerException
+ClassName = System.TypeLoadException
+Data.ThreadLocalDebugInfo = “Scheduler: 'Roslyn worker scheduler' on thread `:1`”
+HResult = COR_E_TYPELOAD=80131522
+Source = Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler
+TypeLoadClassName = Enumerator
+TypeLoadAssemblyName = “Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+TypeLoadResourceID = “<ERROR> Could not load file or assembly 'System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'. The system cannot find the file specified.”
+StackTraceString = “
+  at Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.HostOutputNode`1.AppendOutputs(IncrementalExecutionContext context, CancellationToken cancellationToken)
+     at Microsoft.CodeAnalysis.GeneratorDriver.UpdateOutputs(ImmutableArray`1 outputNodes, IncrementalGeneratorOutputKind outputKind, Builder generatorRunStateBuilder, CancellationToken cancellationToken, Builder driverStateBuilder) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 323
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGeneratorsCore(Compilation compilation, DiagnosticBag diagnosticsBag, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 298
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGenerators(Compilation compilation, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 47
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.FinalizeCompilationAsync(SolutionState solution, Compilation compilationWithoutGenerators, CompilationTrackerGeneratorInfo generatorInfo, Compilation compilationWithStaleGeneratedTrees, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 846
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.BuildCompilationInfoFromScratchAsync(SolutionState solution, CompilationTrackerGeneratorInfo generatorInfo, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 526
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.BuildCompilationInfoAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 492
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetOrBuildCompilationInfoAsync(SolutionState solution, Boolean lockGate, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 451
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetSourceGeneratedDocumentStatesAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 1049
+     at Microsoft.CodeAnalysis.Project.GetSourceGeneratedDocumentsAsync(CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\Project.cs:line 286
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass17_0.<<TryGetSourceGeneratorAsync>b__3>d.MoveNext() in TryGetSourceGeneratorAsync.il:line IL_00C1 mvid 52CC or TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+  --- End of stack trace from previous location ---
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass12_0`1.<<StartWithCookieAsync>b__0>d.MoveNext() in StartWithCookieAsync.il:line IL_00D3 mvid 52CC
+  --- End of stack trace from previous location ---
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.TryGetSourceGeneratorAsync(Lifetime lifetime, ProjectId projectId, FileSystemPath path) in TryGetSourceGeneratorAsync.il:line IL_00C1 mvid 52CC or TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass14_0.<<StartTracking>b__0>d.MoveNext() in StartTracking.il:line IL_0144 mvid 52CC
+”
+
+--- Outer ---
+
+--- EXCEPTION #2/2 [LoggerException]
+Message = “Failed to generate sources for project: /home/krasyo/programming/TodoApi/TodoApi.csproj Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root
+ClassName = JetBrains.Util.LoggerException
+InnerException = “Exception #1 at Root.InnerException”
+HResult = COR_E_APPLICATION=80131600
+StackTraceString = “
+  at JetBrains.Util.ILoggerEx.LogException(ILogger this, LoggingLevel level, Exception exception, ExceptionOrigin exceptionOrigin, String comment) in LogException.il:line IL_002E mvid 0595
+     at JetBrains.Util.ILoggerEx.Error(ILogger this, Exception ex, String message) in Error.il:line IL_0008 mvid 0595 or Error.il:line IL_001B mvid 0595
+     at JetBrains.Util.ILoggerEx.Error(ILogger logger, Exception exception, JetLogErrorInterpolatedStringHandler& messageHandler) in Error.il:line IL_0008 mvid 0595 or Error.il:line IL_001B mvid 0595
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass14_0.<<StartTracking>b__0>d.MoveNext() in StartTracking.il:line IL_0144 mvid 52CC
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunCallback(ContextCallback callback, Object state, Task& currentTask) in RunCallback.il:line IL_0013 mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0081 mvid 8EF9
+     at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute) in FinishSlow.il:line IL_0003 mvid 8EF9
+     at System.Threading.Tasks.Task.TrySetException(Object exceptionObject) in TrySetException.il:line IL_0022 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField) in SetException.il:line IL_0025 mvid 8EF9
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.TryGetSourceGeneratorAsync(Lifetime lifetime, ProjectId projectId, FileSystemPath path) in TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread) in ExecuteWithThreadLocal.il:line IL_0096 mvid 8EF9
+     at System.Threading.Tasks.Task.ExecuteEntry() in ExecuteEntry.il:line IL_0036 mvid 8EF9
+     at JetBrains.Util.Concurrency.Threading.SequentialScheduler.TryExecuteTaskWithContext(Task task) in TryExecuteTaskWithContext.il:line IL_0026 mvid 0595
+     at JetBrains.Util.Concurrency.Threading.SequentialScheduler.<.ctor>b__12_0() in SequentialScheduler.il:line IL_006F mvid 0595
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state) in RunFromThreadPoolDispatchLoop.il:line IL_0015 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecuteFromThreadPool(Thread threadPoolThread) in ExecuteFromThreadPool.il:line IL_0000 mvid 8EF9
+     at System.Threading.ThreadPoolWorkQueue.Dispatch() in Dispatch.il:line IL_013F mvid 8EF9
+     at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart() in WorkerThreadStart.il:line IL_0067 mvid 8EF9
+”
+, throwable=com.jetbrains.rd.platform.diagnostics.BackendException: Failed to generate sources for project: /home/krasyo/programming/TodoApi/TodoApi.csproj Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+
+--- EXCEPTION #1/2 [TypeLoadException]
+Message = “Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root.InnerException
+ClassName = System.TypeLoadException
+Data.ThreadLocalDebugInfo = “Scheduler: 'Roslyn worker scheduler' on thread `:1`”
+HResult = COR_E_TYPELOAD=80131522
+Source = Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler
+TypeLoadClassName = Enumerator
+TypeLoadAssemblyName = “Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+TypeLoadResourceID = “<ERROR> Could not load file or assembly 'System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'. The system cannot find the file specified.”
+StackTraceString = “
+  at Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.HostOutputNode`1.AppendOutputs(IncrementalExecutionContext context, CancellationToken cancellationToken)
+     at Microsoft.CodeAnalysis.GeneratorDriver.UpdateOutputs(ImmutableArray`1 outputNodes, IncrementalGeneratorOutputKind outputKind, Builder generatorRunStateBuilder, CancellationToken cancellationToken, Builder driverStateBuilder) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 323
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGeneratorsCore(Compilation compilation, DiagnosticBag diagnosticsBag, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 298
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGenerators(Compilation compilation, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 47
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.FinalizeCompilationAsync(SolutionState solution, Compilation compilationWithoutGenerators, CompilationTrackerGeneratorInfo generatorInfo, Compilation compilationWithStaleGeneratedTrees, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 846
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.BuildCompilationInfoFromScratchAsync(SolutionState solution, CompilationTrackerGeneratorInfo generatorInfo, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 526
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.BuildCompilationInfoAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 492
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetOrBuildCompilationInfoAsync(SolutionState solution, Boolean lockGate, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 451
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetSourceGeneratedDocumentStatesAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 1049
+     at Microsoft.CodeAnalysis.Project.GetSourceGeneratedDocumentsAsync(CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\Project.cs:line 286
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass17_0.<<TryGetSourceGeneratorAsync>b__3>d.MoveNext() in TryGetSourceGeneratorAsync.il:line IL_00C1 mvid 52CC or TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+  --- End of stack trace from previous location ---
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass12_0`1.<<StartWithCookieAsync>b__0>d.MoveNext() in StartWithCookieAsync.il:line IL_00D3 mvid 52CC
+  --- End of stack trace from previous location ---
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.TryGetSourceGeneratorAsync(Lifetime lifetime, ProjectId projectId, FileSystemPath path) in TryGetSourceGeneratorAsync.il:line IL_00C1 mvid 52CC or TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass14_0.<<StartTracking>b__0>d.MoveNext() in StartTracking.il:line IL_0144 mvid 52CC
+”
+
+--- Outer ---
+
+--- EXCEPTION #2/2 [LoggerException]
+Message = “Failed to generate sources for project: /home/krasyo/programming/TodoApi/TodoApi.csproj Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root
+ClassName = JetBrains.Util.LoggerException
+InnerException = “Exception #1 at Root.InnerException”
+HResult = COR_E_APPLICATION=80131600
+StackTraceString = “
+  at JetBrains.Util.ILoggerEx.LogException(ILogger this, LoggingLevel level, Exception exception, ExceptionOrigin exceptionOrigin, String comment) in LogException.il:line IL_002E mvid 0595
+     at JetBrains.Util.ILoggerEx.Error(ILogger this, Exception ex, String message) in Error.il:line IL_0008 mvid 0595 or Error.il:line IL_001B mvid 0595
+     at JetBrains.Util.ILoggerEx.Error(ILogger logger, Exception exception, JetLogErrorInterpolatedStringHandler& messageHandler) in Error.il:line IL_0008 mvid 0595 or Error.il:line IL_001B mvid 0595
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass14_0.<<StartTracking>b__0>d.MoveNext() in StartTracking.il:line IL_0144 mvid 52CC
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunCallback(ContextCallback callback, Object state, Task& currentTask) in RunCallback.il:line IL_0013 mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0081 mvid 8EF9
+     at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute) in FinishSlow.il:line IL_0003 mvid 8EF9
+     at System.Threading.Tasks.Task.TrySetException(Object exceptionObject) in TrySetException.il:line IL_0022 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField) in SetException.il:line IL_0025 mvid 8EF9
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.TryGetSourceGeneratorAsync(Lifetime lifetime, ProjectId projectId, FileSystemPath path) in TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread) in ExecuteWithThreadLocal.il:line IL_0096 mvid 8EF9
+     at System.Threading.Tasks.Task.ExecuteEntry() in ExecuteEntry.il:line IL_0036 mvid 8EF9
+     at JetBrains.Util.Concurrency.Threading.SequentialScheduler.TryExecuteTaskWithContext(Task task) in TryExecuteTaskWithContext.il:line IL_0026 mvid 0595
+     at JetBrains.Util.Concurrency.Threading.SequentialScheduler.<.ctor>b__12_0() in SequentialScheduler.il:line IL_006F mvid 0595
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state) in RunFromThreadPoolDispatchLoop.il:line IL_0015 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecuteFromThreadPool(Thread threadPoolThread) in ExecuteFromThreadPool.il:line IL_0000 mvid 8EF9
+     at System.Threading.ThreadPoolWorkQueue.Dispatch() in Dispatch.il:line IL_013F mvid 8EF9
+     at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart() in WorkerThreadStart.il:line IL_0067 mvid 8EF9
+”
+
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent.fromLogEntry(RdClientProtocolComponent.kt:80)
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent.access$fromLogEntry(RdClientProtocolComponent.kt:23)
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent$2.invoke(RdClientProtocolComponent.kt:49)
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent$2.invoke(RdClientProtocolComponent.kt:45)
+	at com.jetbrains.rd.util.reactive.Signal.fire(Signal.kt:32)
+	at com.jetbrains.rd.framework.impl.RdSignal$onWireReceived$2.invoke(RdSignal.kt:32)
+	at com.jetbrains.rd.framework.impl.RdSignal$onWireReceived$2.invoke(RdSignal.kt:31)
+	at com.jetbrains.rd.framework.MessageBroker$RdWireableDispatchHelper$doDispatch$2.invoke(MessageBroker.kt:122)
+	at com.jetbrains.rd.framework.MessageBroker$RdWireableDispatchHelper$doDispatch$2.invoke(MessageBroker.kt:115)
+	at com.jetbrains.rdclient.protocol.RdDispatcher.flushAll(RdDispatcher.kt:103)
+	at com.jetbrains.rdclient.protocol.RdDispatcher.flushAllRunnable$lambda$0(RdDispatcher.kt:29)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:208)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:190)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.openapi.application.impl.ApplicationImpl$4.run(ApplicationImpl.java:478)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:79)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:121)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:41)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:792)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:739)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:733)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:761)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.kt:690)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent$lambda$10(IdeEventQueue.kt:593)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWithoutImplicitRead(ApplicationImpl.java:1485)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.kt:593)
+	at com.intellij.ide.IdeEventQueue.access$_dispatchEvent(IdeEventQueue.kt:67)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:369)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:368)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:787)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:368)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:363)
+	at com.intellij.ide.IdeEventQueueKt.performActivity$lambda$1(IdeEventQueue.kt:997)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.ide.IdeEventQueueKt.performActivity(IdeEventQueue.kt:997)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$7(IdeEventQueue.kt:363)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.kt:405)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+]
+2023-12-05 10:18:44,103 [  28987]   WARN - #c.j.r.p.RdConstants - An attempt to use null ClientId context value for per context entity. Returning 'localId.value'. Enable Trace category to investigate stack traces
+2023-12-05 10:18:44,103 [  28987]   WARN - #c.j.r.p.RdConstants - An attempt to use null ClientId context value for per context entity. Returning 'localId.value'. Enable Trace category to investigate stack traces
+2023-12-05 10:18:50,443 [  35327]   WARN - #c.i.u.x.Binding - no accessors for java.time.LocalTime
+2023-12-05 10:18:50,660 [  35544] SEVERE - Projected Logger - IdeaLoggingEvent[message=Failed to generate sources for project: /home/krasyo/programming/TodoApi/TodoApi.csproj Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+
+--- EXCEPTION #1/2 [TypeLoadException]
+Message = “Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root.InnerException
+ClassName = System.TypeLoadException
+Data.ThreadLocalDebugInfo = “Scheduler: 'Roslyn worker scheduler' on thread `:1`”
+HResult = COR_E_TYPELOAD=80131522
+Source = Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler
+TypeLoadClassName = Enumerator
+TypeLoadAssemblyName = “Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+TypeLoadResourceID = “<ERROR> Could not load file or assembly 'System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'. The system cannot find the file specified.”
+StackTraceString = “
+  at Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.HostOutputNode`1.AppendOutputs(IncrementalExecutionContext context, CancellationToken cancellationToken)
+     at Microsoft.CodeAnalysis.GeneratorDriver.UpdateOutputs(ImmutableArray`1 outputNodes, IncrementalGeneratorOutputKind outputKind, Builder generatorRunStateBuilder, CancellationToken cancellationToken, Builder driverStateBuilder) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 323
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGeneratorsCore(Compilation compilation, DiagnosticBag diagnosticsBag, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 298
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGenerators(Compilation compilation, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 47
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.FinalizeCompilationAsync(SolutionState solution, Compilation compilationWithoutGenerators, CompilationTrackerGeneratorInfo generatorInfo, Compilation compilationWithStaleGeneratedTrees, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 846
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.BuildFinalStateFromInProgressStateAsync(SolutionState solution, InProgressState state, Compilation inProgressCompilation, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 595
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.BuildCompilationInfoAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 511
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetOrBuildCompilationInfoAsync(SolutionState solution, Boolean lockGate, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 451
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetSourceGeneratedDocumentStatesAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 1049
+     at Microsoft.CodeAnalysis.Project.GetSourceGeneratedDocumentsAsync(CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\Project.cs:line 286
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass17_0.<<TryGetSourceGeneratorAsync>b__3>d.MoveNext() in TryGetSourceGeneratorAsync.il:line IL_00C1 mvid 52CC or TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+  --- End of stack trace from previous location ---
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass12_0`1.<<StartWithCookieAsync>b__0>d.MoveNext() in StartWithCookieAsync.il:line IL_00D3 mvid 52CC
+  --- End of stack trace from previous location ---
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.TryGetSourceGeneratorAsync(Lifetime lifetime, ProjectId projectId, FileSystemPath path) in TryGetSourceGeneratorAsync.il:line IL_00C1 mvid 52CC or TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass14_0.<<StartTracking>b__0>d.MoveNext() in StartTracking.il:line IL_0144 mvid 52CC
+”
+
+--- Outer ---
+
+--- EXCEPTION #2/2 [LoggerException]
+Message = “Failed to generate sources for project: /home/krasyo/programming/TodoApi/TodoApi.csproj Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root
+ClassName = JetBrains.Util.LoggerException
+InnerException = “Exception #1 at Root.InnerException”
+HResult = COR_E_APPLICATION=80131600
+StackTraceString = “
+  at JetBrains.Util.ILoggerEx.LogException(ILogger this, LoggingLevel level, Exception exception, ExceptionOrigin exceptionOrigin, String comment) in LogException.il:line IL_002E mvid 0595
+     at JetBrains.Util.ILoggerEx.Error(ILogger this, Exception ex, String message) in Error.il:line IL_0008 mvid 0595 or Error.il:line IL_001B mvid 0595
+     at JetBrains.Util.ILoggerEx.Error(ILogger logger, Exception exception, JetLogErrorInterpolatedStringHandler& messageHandler) in Error.il:line IL_0008 mvid 0595 or Error.il:line IL_001B mvid 0595
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass14_0.<<StartTracking>b__0>d.MoveNext() in StartTracking.il:line IL_0144 mvid 52CC
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunCallback(ContextCallback callback, Object state, Task& currentTask) in RunCallback.il:line IL_0013 mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0081 mvid 8EF9
+     at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute) in FinishSlow.il:line IL_0003 mvid 8EF9
+     at System.Threading.Tasks.Task.TrySetException(Object exceptionObject) in TrySetException.il:line IL_0022 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField) in SetException.il:line IL_0025 mvid 8EF9
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.TryGetSourceGeneratorAsync(Lifetime lifetime, ProjectId projectId, FileSystemPath path) in TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread) in ExecuteWithThreadLocal.il:line IL_0096 mvid 8EF9
+     at System.Threading.Tasks.Task.ExecuteEntry() in ExecuteEntry.il:line IL_0036 mvid 8EF9
+     at JetBrains.Util.Concurrency.Threading.SequentialScheduler.TryExecuteTaskWithContext(Task task) in TryExecuteTaskWithContext.il:line IL_0026 mvid 0595
+     at JetBrains.Util.Concurrency.Threading.SequentialScheduler.<.ctor>b__12_0() in SequentialScheduler.il:line IL_006F mvid 0595
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state) in RunFromThreadPoolDispatchLoop.il:line IL_0015 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecuteFromThreadPool(Thread threadPoolThread) in ExecuteFromThreadPool.il:line IL_0000 mvid 8EF9
+     at System.Threading.ThreadPoolWorkQueue.Dispatch() in Dispatch.il:line IL_013F mvid 8EF9
+     at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart() in WorkerThreadStart.il:line IL_0067 mvid 8EF9
+”
+, throwable=com.jetbrains.rd.platform.diagnostics.BackendException: Failed to generate sources for project: /home/krasyo/programming/TodoApi/TodoApi.csproj Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.
+
+--- EXCEPTION #1/2 [TypeLoadException]
+Message = “Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root.InnerException
+ClassName = System.TypeLoadException
+Data.ThreadLocalDebugInfo = “Scheduler: 'Roslyn worker scheduler' on thread `:1`”
+HResult = COR_E_TYPELOAD=80131522
+Source = Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler
+TypeLoadClassName = Enumerator
+TypeLoadAssemblyName = “Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35”
+TypeLoadResourceID = “<ERROR> Could not load file or assembly 'System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'. The system cannot find the file specified.”
+StackTraceString = “
+  at Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.HostOutputNode`1.AppendOutputs(IncrementalExecutionContext context, CancellationToken cancellationToken)
+     at Microsoft.CodeAnalysis.GeneratorDriver.UpdateOutputs(ImmutableArray`1 outputNodes, IncrementalGeneratorOutputKind outputKind, Builder generatorRunStateBuilder, CancellationToken cancellationToken, Builder driverStateBuilder) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 323
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGeneratorsCore(Compilation compilation, DiagnosticBag diagnosticsBag, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 298
+     at Microsoft.CodeAnalysis.GeneratorDriver.RunGenerators(Compilation compilation, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Compilers\Core\Portable\SourceGeneration\GeneratorDriver.cs:line 47
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.FinalizeCompilationAsync(SolutionState solution, Compilation compilationWithoutGenerators, CompilationTrackerGeneratorInfo generatorInfo, Compilation compilationWithStaleGeneratedTrees, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 846
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.BuildFinalStateFromInProgressStateAsync(SolutionState solution, InProgressState state, Compilation inProgressCompilation, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 595
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.BuildCompilationInfoAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 511
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetOrBuildCompilationInfoAsync(SolutionState solution, Boolean lockGate, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 451
+     at Microsoft.CodeAnalysis.SolutionState.CompilationTracker.GetSourceGeneratedDocumentStatesAsync(SolutionState solution, CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\SolutionState.CompilationTracker.cs:line 1049
+     at Microsoft.CodeAnalysis.Project.GetSourceGeneratedDocumentsAsync(CancellationToken cancellationToken) in Z:\BuildAgent\work\3b7ce003563d6f8f\src\Workspaces\Core\Portable\Workspace\Solution\Project.cs:line 286
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass17_0.<<TryGetSourceGeneratorAsync>b__3>d.MoveNext() in TryGetSourceGeneratorAsync.il:line IL_00C1 mvid 52CC or TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+  --- End of stack trace from previous location ---
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass12_0`1.<<StartWithCookieAsync>b__0>d.MoveNext() in StartWithCookieAsync.il:line IL_00D3 mvid 52CC
+  --- End of stack trace from previous location ---
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.TryGetSourceGeneratorAsync(Lifetime lifetime, ProjectId projectId, FileSystemPath path) in TryGetSourceGeneratorAsync.il:line IL_00C1 mvid 52CC or TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass14_0.<<StartTracking>b__0>d.MoveNext() in StartTracking.il:line IL_0144 mvid 52CC
+”
+
+--- Outer ---
+
+--- EXCEPTION #2/2 [LoggerException]
+Message = “Failed to generate sources for project: /home/krasyo/programming/TodoApi/TodoApi.csproj Could not load type 'Enumerator' from assembly 'Microsoft.CodeAnalysis, Version=42.42.42.42, Culture=neutral, PublicKeyToken=31bf3856ad364e35'.”
+ExceptionPath = Root
+ClassName = JetBrains.Util.LoggerException
+InnerException = “Exception #1 at Root.InnerException”
+HResult = COR_E_APPLICATION=80131600
+StackTraceString = “
+  at JetBrains.Util.ILoggerEx.LogException(ILogger this, LoggingLevel level, Exception exception, ExceptionOrigin exceptionOrigin, String comment) in LogException.il:line IL_002E mvid 0595
+     at JetBrains.Util.ILoggerEx.Error(ILogger this, Exception ex, String message) in Error.il:line IL_0008 mvid 0595 or Error.il:line IL_001B mvid 0595
+     at JetBrains.Util.ILoggerEx.Error(ILogger logger, Exception exception, JetLogErrorInterpolatedStringHandler& messageHandler) in Error.il:line IL_0008 mvid 0595 or Error.il:line IL_001B mvid 0595
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.<>c__DisplayClass14_0.<<StartTracking>b__0>d.MoveNext() in StartTracking.il:line IL_0144 mvid 52CC
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Threading.Tasks.AwaitTaskContinuation.RunCallback(ContextCallback callback, Object state, Task& currentTask) in RunCallback.il:line IL_0013 mvid 8EF9
+     at System.Threading.Tasks.Task.RunContinuations(Object continuationObject) in RunContinuations.il:line IL_0081 mvid 8EF9
+     at System.Threading.Tasks.Task.FinishSlow(Boolean userDelegateExecute) in FinishSlow.il:line IL_0003 mvid 8EF9
+     at System.Threading.Tasks.Task.TrySetException(Object exceptionObject) in TrySetException.il:line IL_0022 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.SetException(Exception exception, Task`1& taskField) in SetException.il:line IL_0025 mvid 8EF9
+     at JetBrains.Roslyn.Worker.SourceGeneratorsTracker.TryGetSourceGeneratorAsync(Lifetime lifetime, ProjectId projectId, FileSystemPath path) in TryGetSourceGeneratorAsync.il:line IL_0380 mvid 52CC
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext() in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state) in RunInternal.il:line IL_0040 mvid 8EF9
+     at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread) in ExecuteWithThreadLocal.il:line IL_0096 mvid 8EF9
+     at System.Threading.Tasks.Task.ExecuteEntry() in ExecuteEntry.il:line IL_0036 mvid 8EF9
+     at JetBrains.Util.Concurrency.Threading.SequentialScheduler.TryExecuteTaskWithContext(Task task) in TryExecuteTaskWithContext.il:line IL_0026 mvid 0595
+     at JetBrains.Util.Concurrency.Threading.SequentialScheduler.<.ctor>b__12_0() in SequentialScheduler.il:line IL_006F mvid 0595
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecutionContextCallback(Object s) in ExecutionContextCallback.il:line IL_0000 mvid 8EF9
+     at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state) in RunFromThreadPoolDispatchLoop.il:line IL_0015 mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.MoveNext(Thread threadPoolThread) in MoveNext.il:line IL_0000 mvid 8EF9 or MoveNext.il:line IL_003F mvid 8EF9 or MoveNext.il:line IL_004D mvid 8EF9
+     at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1.AsyncStateMachineBox`1.ExecuteFromThreadPool(Thread threadPoolThread) in ExecuteFromThreadPool.il:line IL_0000 mvid 8EF9
+     at System.Threading.ThreadPoolWorkQueue.Dispatch() in Dispatch.il:line IL_013F mvid 8EF9
+     at System.Threading.PortableThreadPool.WorkerThread.WorkerThreadStart() in WorkerThreadStart.il:line IL_0067 mvid 8EF9
+”
+
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent.fromLogEntry(RdClientProtocolComponent.kt:80)
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent.access$fromLogEntry(RdClientProtocolComponent.kt:23)
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent$2.invoke(RdClientProtocolComponent.kt:49)
+	at com.jetbrains.rdclient.protocol.components.RdClientProtocolComponent$2.invoke(RdClientProtocolComponent.kt:45)
+	at com.jetbrains.rd.util.reactive.Signal.fire(Signal.kt:32)
+	at com.jetbrains.rd.framework.impl.RdSignal$onWireReceived$2.invoke(RdSignal.kt:32)
+	at com.jetbrains.rd.framework.impl.RdSignal$onWireReceived$2.invoke(RdSignal.kt:31)
+	at com.jetbrains.rd.framework.MessageBroker$RdWireableDispatchHelper$doDispatch$2.invoke(MessageBroker.kt:122)
+	at com.jetbrains.rd.framework.MessageBroker$RdWireableDispatchHelper$doDispatch$2.invoke(MessageBroker.kt:115)
+	at com.jetbrains.rdclient.protocol.RdDispatcher.flushAll(RdDispatcher.kt:103)
+	at com.jetbrains.rdclient.protocol.RdDispatcher.flushAllRunnable$lambda$0(RdDispatcher.kt:29)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:208)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:190)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.openapi.application.impl.ApplicationImpl$4.run(ApplicationImpl.java:478)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:79)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:121)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:41)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:792)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:739)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:733)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:761)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.kt:690)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent$lambda$10(IdeEventQueue.kt:593)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWithoutImplicitRead(ApplicationImpl.java:1485)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.kt:593)
+	at com.intellij.ide.IdeEventQueue.access$_dispatchEvent(IdeEventQueue.kt:67)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:369)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:368)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:787)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:368)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:363)
+	at com.intellij.ide.IdeEventQueueKt.performActivity$lambda$1(IdeEventQueue.kt:997)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:113)
+	at com.intellij.ide.IdeEventQueueKt.performActivity(IdeEventQueue.kt:997)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$7(IdeEventQueue.kt:363)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.kt:405)
+	at com.intellij.openapi.progress.impl.PlatformTaskSupportKt.pumpEventsForHierarchy(PlatformTaskSupport.kt:379)
+	at com.intellij.openapi.progress.impl.PlatformTaskSupportKt.pumpEventsForHierarchy(PlatformTaskSupport.kt:387)
+	at com.intellij.ide.ShutdownKt$cancelAndJoinBlocking$1.invoke(shutdown.kt:33)
+	at com.intellij.ide.ShutdownKt$cancelAndJoinBlocking$1.invoke(shutdown.kt:28)
+	at com.intellij.ide.ShutdownKt.cancelAndJoinBlocking(shutdown.kt:79)
+	at com.intellij.ide.ShutdownKt.cancelAndJoinBlocking(shutdown.kt:28)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeContainer(ApplicationImpl.java:218)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$doExit$5(ApplicationImpl.java:660)
+	at com.intellij.platform.diagnostic.telemetry.helpers.TraceKt.computeWithSpanIgnoreThrows(trace.kt:73)
+	at com.intellij.platform.diagnostic.telemetry.helpers.TraceUtil.computeWithSpanThrows(TraceUtil.java:18)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:646)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:595)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:584)
+	at com.intellij.openapi.application.ex.ApplicationEx.exit(ApplicationEx.java:77)
+	at com.intellij.openapi.wm.impl.CloseProjectWindowHelper.quitApp(CloseProjectWindowHelper.kt:67)
+	at com.intellij.openapi.wm.impl.CloseProjectWindowHelper.windowClosing(CloseProjectWindowHelper.kt:47)
+	at com.intellij.openapi.wm.impl.ProjectFrameHelper.windowClosing(ProjectFrameHelper.kt:439)
+	at com.intellij.openapi.wm.impl.WindowCloseListener.windowClosing(ProjectFrameHelper.kt:459)
+	at java.desktop/java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:357)
+	at java.desktop/java.awt.AWTEventMulticaster.windowClosing(AWTEventMulticaster.java:357)
+	at java.desktop/java.awt.Window.processWindowEvent(Window.java:2113)
+	at java.desktop/javax.swing.JFrame.processWindowEvent(JFrame.java:298)
+	at java.desktop/java.awt.Window.processEvent(Window.java:2072)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2808)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4855)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:794)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:739)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:733)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:766)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:764)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:763)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.kt:690)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent$lambda$10(IdeEventQueue.kt:593)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWithoutImplicitRead(ApplicationImpl.java:1485)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.kt:593)
+	at com.intellij.ide.IdeEventQueue.access$_dispatchEvent(IdeEventQueue.kt:67)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:369)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:368)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:787)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:368)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:363)
+	at com.intellij.ide.IdeEventQueueKt.performActivity$lambda$1(IdeEventQueue.kt:997)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:113)
+	at com.intellij.ide.IdeEventQueueKt.performActivity(IdeEventQueue.kt:997)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$7(IdeEventQueue.kt:363)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.kt:405)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+]
